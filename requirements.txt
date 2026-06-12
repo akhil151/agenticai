@@ -1,0 +1,10 @@
+playwright
+groq
+huggingface_hub
+pillow
+python-dotenv
+torch
+diffusers
+transformers
+accelerate
+ 
